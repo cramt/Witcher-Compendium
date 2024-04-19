@@ -112,5 +112,7 @@
       "system": "TheWitcherTRPG"
     }
   ],
-  "url": "https://github.com/Siryphas/Witcher-Compendium"
+  "url": "https://github.com/cramt/Witcher-Compendium",
+  "manifest": "https://raw.githubusercontent.com/cramt/Witcher-Compendium/main/module.json",
+  "download": "https://github.com/cramt/Witcher-Compendium/zipball/main"
 }
